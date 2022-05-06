@@ -1,0 +1,5 @@
+enter command:
+./ifcond.sh: line 3: read: `$command': not a valid identifier
+./ifcond.sh: line 5: if[[1==0]]: command not found
+./ifcond.sh: line 6: syntax error near unexpected token `then'
+./ifcond.sh: line 6: `then '
